@@ -5,10 +5,10 @@
   
   <h1>Hi there, I'm Tharun Kumar B S</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=5C3EE8&center=true&vCenter=true&width=600&lines=Backend+Developer;Data+Engineer;AI+%26+Data+Science+Graduate" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=5C3EE8&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Data+Scientist;AI+Developer" alt="Roles" />
   
   <p>
-    Recent AI & Data Science Graduate passionate about building scalable backend systems and intelligent applications. I love transforming complex data into actionable insights through robust ETL pipelines and relational database modeling.
+    Recent AI & Data Science Graduate passionate about architecting intelligent applications and training robust machine learning models. I specialize in bridging the gap between advanced deep learning (Computer Vision, NLP) and scalable backend deployment.
   </p>
 
   <p>
@@ -21,9 +21,9 @@
 ---
 
 ## <img src="https://img.icons8.com/color/48/idea.png" width="24" style="vertical-align: middle;"/> Current Focus
-- Building robust **Backend APIs** (Python, Flask) and learning scalable cloud deployment on AWS.
-- Deepening expertise in **Data Engineering** by constructing automated ETL pipelines and data warehouses.
-- Actively seeking **entry-level roles or internships** in Backend Development, Data Engineering, or AI/ML.
+- Designing and fine-tuning **Deep Learning Models** (TensorFlow, PyTorch) for real-world computer vision tasks.
+- Deploying AI inference engines into robust **Backend APIs** (Python, Flask, AWS).
+- Actively seeking **entry-level roles or internships** as an AI Engineer, ML Engineer, or Data Scientist.
 
 ---
 
