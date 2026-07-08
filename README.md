@@ -101,4 +101,3 @@ A real-time emotion detection application integrating OpenCV and TensorFlow to r
 <!--
 **Tharun-Kumar-b-s/Tharun-Kumar-b-s** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-hi
